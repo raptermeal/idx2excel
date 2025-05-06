@@ -1,0 +1,14 @@
+국가,구분,단위,티커,출처
+중국,주가,SEZE,399001.SZ,yfinance
+베트남,주가,VNI,0P0000HY8X.VN,yfinance
+한국,주가,KOSPI,^KS11,yfinance
+인니,주가,IDX,^JKSE,yfinance
+필리핀,주가,PSEi,PSEi.PS,yfinance
+미국,주가,NASDAQ,^IXIC,yfinance
+미국,주가,S&P 500,^GSPC,yfinance
+미국,주가,DowJones,^DJI,yfinance
+베트남,환율,USD/VND,FX_USDVND,naver
+인니니,환율,USD/IDR,FX_USDIDR,naver
+필리핀,환율,USD/PHP,FX_USDPHP,naver
+중국,환율,USD/CNY,FX_USDCNY,naver
+한국,환율,USD/KRW,FX_USDKRW,naver
