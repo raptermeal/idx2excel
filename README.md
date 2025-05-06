@@ -16,33 +16,23 @@
 
 ## 실행 방법
 1. 패키지 설치
+```
 pip install -r requirements.txt
-
-markdown
-복사
-편집
-
+```
 2. 스크립트 실행
+```
 python get_idx.py
-
-markdown
-복사
-편집
+```
 
 ## .exe 파일 생성 방법
 1. PyInstaller 설치
+```
 pip install pyinstaller
-
-markdown
-복사
-편집
-
+```
 2. 실행 파일 만들기
+```
 pyinstaller --onefile --noconsole get_idx.py
-
-bash
-복사
-편집
+```
 
 생성된 실행 파일은 dist/ 폴더에 저장됩니다.
 
