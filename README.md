@@ -24,7 +24,7 @@
 1. PyInstaller 설치
 `pip install pyinstaller`
 2. 실행 파일 만들기
-`pyinstaller --onefile --noconsole get_idx.py`
+`pyinstaller --onefile --distpath . --workpath ./build --specpath . get_idx.py`
 
 생성된 실행 파일은 dist/ 폴더에 저장됩니다.
 
